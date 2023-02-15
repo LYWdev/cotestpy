@@ -1,0 +1,7 @@
+#wc18c3j1
+#AnHonestDay'work
+p=int(input())
+b=int(input())
+d=int(input())
+
+print(p//b*d+p%b)

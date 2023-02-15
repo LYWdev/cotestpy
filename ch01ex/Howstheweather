@@ -1,0 +1,4 @@
+#wc17c1j2
+#Howstheweather
+cel=int(input())
+print(int((cel*(9/5))+32))

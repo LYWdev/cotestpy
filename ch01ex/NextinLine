@@ -1,0 +1,5 @@
+#ccc13j1
+#NextinLine
+young=int(input())
+mid=int(input())
+print((mid-young)+mid)
