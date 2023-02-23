@@ -18,5 +18,5 @@ elif ((num2 > num3) and (num2 < num1)) or ((num2 > num1) and (num2 < num3)):
   print(middle)
 # [num3 < num2 < num1 일 때] or [num1 < num2 < num3 일 때] 
 else:
-  middle = num2
+  middle = num3
   print(middle)
